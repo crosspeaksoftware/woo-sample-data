@@ -47,6 +47,8 @@ The "Good Sample" and "Bad Sample" tags are their to differential the original W
 
 All products with problems have a brief mention of their general issue they have added to their name and SKU.
 
+![Woo Sample Data - Example Bad Data in Product Screen](https://github.com/user-attachments/assets/1f2aa455-3cb4-49c0-8cc6-b3cfbcfba58f)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
