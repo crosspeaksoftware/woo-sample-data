@@ -2,11 +2,11 @@
 <!-- TABLE OF CONTENTS -->
 
 # Woo Sample Data
-This is a set of sample data for WooCommerce designed for test your themes or plugins. Based off the default [WooCommerce Core sample data](https://woocommerce.com/document/importing-woocommerce-sample-data/), it includes data with the addition of incomplete, incorrect or malformed products. The issues with products are some of those observed while working with clients migrating from different eCommerce solutions, and are designed to help make sure your theme or plugin can account for these problems. 
+This is a set of sample data for WooCommerce designed for testing your themes or plugins. Based off the default [WooCommerce Core sample data](https://woocommerce.com/document/importing-woocommerce-sample-data/), it includes data with the addition of incomplete, incorrect or malformed products. The issues with products are some of those observed while working with clients migrating from different eCommerce solutions, and are designed to help make sure your theme or plugin can account for these problems. 
 
 The product data is broken into groups and tags, as well as separate files to allow you to add the good or bad data.
 
-Note that the bad data are duplicate fo the original data with intentional issues added, and the product images are pulled from the same location as the WooCommerce Core sample data.
+Note that the bad data are duplicates of the original data with intentional issues added, and the product images are pulled from the same location as the WooCommerce Core sample data.
 
 <!-- GETTING STARTED -->
 ## Getting Started
